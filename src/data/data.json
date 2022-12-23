@@ -1,0 +1,75 @@
+[
+    {
+    "id": 1,
+    "user": "Volodymyr Zelenskyy",
+    "avatar": "https://upload.wikimedia.org/wikipedia/commons/8/81/Do_everything_you_can_for_us_to_withstand_together_in_this_war_for_our_freedom_and_independence_-_address_by_President_of_Ukraine_Volodymyr_Zelenskyy._%2851977034742%29_%28cropped%29.jpg",
+    "tweets": 12353,
+    "followers": 387654,
+    "isFollowedByYou": false
+    },
+    {
+    "id": 2,
+    "user": "Joe Biden",
+    "avatar": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Joe_Biden_official_portrait_crop.jpg/800px-Joe_Biden_official_portrait_crop.jpg",
+    "tweets": 23445,
+    "followers": 567234,
+    "isFollowedByYou": false
+    },
+    {
+    "id": 3,
+    "user": "Andrzej Duda",
+    "avatar": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/President_of_Poland_Andrzej_Duda_Full_Resolution_%28cropped%29.jpg/1200px-President_of_Poland_Andrzej_Duda_Full_Resolution_%28cropped%29.jpg",
+    "tweets": 14563,
+    "followers": 234562,
+    "isFollowedByYou": false
+    },
+    {
+    "id": 4,
+    "user": "Oleksii Arestovych",
+    "avatar": "https://upload.wikimedia.org/wikipedia/commons/7/71/Oleksiy_Arestovych_%28cropped%29.jpg",
+    "tweets": "2000-3000",
+    "followers": 3222,
+    "isFollowedByYou": false
+    },
+    {
+    "id": 5,
+    "user": "Emmanuel Macron",
+    "avatar": "https://upload.wikimedia.org/wikipedia/commons/d/d9/%D0%97%D1%83%D1%81%D1%82%D1%80%D1%96%D1%87_%D0%9F%D1%80%D0%B5%D0%B7%D0%B8%D0%B4%D0%B5%D0%BD%D1%82%D0%B0_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B8_%D0%B7_%D0%BF%D1%80%D0%B5%D0%B7%D0%B8%D0%B4%D0%B5%D0%BD%D1%82%D0%B0%D0%BC%D0%B8_%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D1%96%D1%97_%D1%82%D0%B0_%D0%A0%D1%83%D0%BC%D1%83%D0%BD%D1%96%D1%97%2C_%D0%B0_%D1%82%D0%B0%D0%BA%D0%BE%D0%B6_%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%B0%D0%BC%D0%B8_%D1%83%D1%80%D1%8F%D0%B4%D1%96%D0%B2_%D0%9D%D1%96%D0%BC%D0%B5%D1%87%D1%87%D0%B8%D0%BD%D0%B8_%D1%82%D0%B0_%D0%86%D1%82%D0%B0%D0%BB%D1%96%D1%97_76_%28cropped%29.jpg",
+    "tweets": 15234,
+    "followers": 125432,
+    "isFollowedByYou": false
+    },
+    {
+    "id": 6,
+    "user": "Boris Johnson",
+    "avatar": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Boris_Johnson_official_portrait_%28cropped%29.jpg/800px-Boris_Johnson_official_portrait_%28cropped%29.jpg",
+    "tweets": 12342,
+    "followers": 234123,
+    "isFollowedByYou": false
+    },
+    {
+    "id": 7,
+    "user": "Valerii Zaluzhny",
+    "avatar": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Lieutenant_General_Valerii_Zaluzhnyi.jpg/640px-Lieutenant_General_Valerii_Zaluzhnyi.jpg",
+    "tweets": 9823,
+    "followers": 12233,
+    "isFollowedByYou": false
+    },
+    {
+    "id": 8,
+    "user": "Nancy Pelosi",
+    "avatar": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Speaker_Nancy_Pelosi.jpg/1200px-Speaker_Nancy_Pelosi.jpg",
+    "tweets": 13412,
+    "followers": 18767,
+    "isFollowedByYou": false
+    },
+    {
+    "id": 9,
+    "user": "Barack Obama",
+    "avatar": "https://upload.wikimedia.org/wikipedia/commons/8/8d/President_Barack_Obama.jpg",
+    "tweets": 12322,
+    "followers": 24555,
+    "isFollowedByYou": false
+    }
+    
+]
