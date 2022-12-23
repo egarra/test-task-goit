@@ -16,7 +16,8 @@ export const CardListItem = ({
   followers,
   avatar,
   UpdateUser,
-  isFollow
+  isFollow,
+  id
 }) => {
     
   return (
@@ -33,11 +34,11 @@ export const CardListItem = ({
         <Text>{followers.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",")} followers</Text>
       </ListInfo>
       {!isFollow ?<Btn
-        onClick={() => UpdateUser(user)}
+        onClick={() => UpdateUser(id)}
       >
         Follow
       </Btn> : <BtnFollowed
-        onClick={() => UpdateUser(user)}
+        onClick={() => UpdateUser(id)}
       >
         Following
       </BtnFollowed> }

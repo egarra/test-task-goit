@@ -14,6 +14,7 @@ export const CardsList = ({ users, UpdateUser, followers, isFollow }) => {
             avatar={avatar}
             UpdateUser={UpdateUser}
             isFollow={isFollow[i]}
+            id={id}
             />
         )
       })}

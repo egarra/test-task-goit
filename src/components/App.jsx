@@ -11,8 +11,8 @@ export const App = () => {
     return JSON.parse(localStorage.getItem("isFollow")) ?? users.map(user => user.isFollowedByYou)
   })
   
-const UpdateUser = (name) => {
-  const index = users.findIndex(user => user.user === name)
+const UpdateUser = (id) => {
+  const index = users.findIndex(user => user.id === id)
 
   const newFollowers = [...followers];
   const newIsfollow = [...isFollow];
